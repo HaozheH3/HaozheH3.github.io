@@ -31,7 +31,7 @@ News
 ======
 2025.05<span style="padding-left: 20px;"></span>We release [Pixel Reasoner](https://tiger-ai-lab.github.io/Pixel-Reasoner/), which studies the key reasoning paradigm behind o3/o4-mini. We introduce Pixel-Space Reasoning for the first time, and identify a critical learning trap when cultivating this novel reasoning capability.
 
-2025.05<span style="padding-left: 20px;"></span>Four papers accepted to ACL 2024! Please Check [Autocode](https://arxiv.org/abs/2502.00691), [ACECoder](https://arxiv.org/abs/2502.01718), [SynMed](https://arxiv.org/abs/2410.13523), [Argus](https://arxiv.org/abs/2406.07146).
+2025.05<span style="padding-left: 20px;"></span>Four papers accepted to <b>ACL 2025</b>! Please Check [Autocode](https://arxiv.org/abs/2502.00691), [ACECoder](https://arxiv.org/abs/2502.01718), [SynMed](https://arxiv.org/abs/2410.13523), [Argus](https://arxiv.org/abs/2406.07146).
 
 2025.04<span style="padding-left: 20px;"></span>We introduce [VL-Rethinker](https://tiger-ai-lab.github.io/VL-Rethinker/), which explores how to incentivize deliberate thinking in VLMs. It achieves superior results on a diverse collection of multimodal benchmarks.
 
@@ -39,10 +39,10 @@ News
 
 2025.02<span style="padding-left: 20px;"></span>We release [Autocode](https://arxiv.org/abs/2502.00691) on metacognitive tool-use LLMs for math, and [ACECoder](https://arxiv.org/abs/2502.01718) for large-scale test-case synthesis for coder RL training.
 
-2025.01<span style="padding-left: 20px;"></span>[RenderWorld](https://arxiv.org/abs/2409.11356) accepted to ICRA 2025. It studied 3D world models. Congrats to Yihua!
+2025.01<span style="padding-left: 20px;"></span>[RenderWorld](https://arxiv.org/abs/2409.11356) accepted to <b>ICRA 2025</b>. It studied 3D world models. Congrats to Yihua!
 
-2024.10<span style="padding-left: 20px;"></span>[V-PETL Benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/file/935de67d1a033fd517cb49d192b5c008-Paper-Datasets_and_Benchmarks_Track.pdf) accepted to NeurIPS 2025.
+2024.10<span style="padding-left: 20px;"></span>[V-PETL Benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/file/935de67d1a033fd517cb49d192b5c008-Paper-Datasets_and_Benchmarks_Track.pdf) accepted to <b>NeurIPS 2024</b>.
 
-2024.08<span style="padding-left: 20px;"></span>[HTL](https://arxiv.org/abs/2402.15729) accepted to EMNLP 2025. It studied tool-integrated reasoning for math reasoning.
+2024.08<span style="padding-left: 20px;"></span>[HTL](https://arxiv.org/abs/2402.15729) accepted to <b>EMNLP 2024</b>. It studied tool-integrated reasoning for math reasoning.
 
 
