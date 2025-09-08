@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-I am a PhD student at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Fangzhen Lin](https://cse.hkust.edu.hk/~flin/), and in close collaboration with [Prof. Wenhu Chen](https://wenhuchen.github.io/) at the University of Waterloo.  I am fortunate to be supported by the **Hong Kong PhD Fellowship Scheme (HKPFS)**, with only 300 awardees across Hong Kong each year.  
+I am a PhD student at the Hong Kong University of Science and Technology (HKUST), advised by [Prof. Fangzhen Lin](https://cse.hkust.edu.hk/~flin/), and in close collaboration with [Prof. Wenhu Chen](https://wenhuchen.github.io/) at the University of Waterloo and [Ge Zhang](https://scholar.google.com/citations?user=qyTrq4kAAAAJ&hl=zh-CN) at ByteDance Seed.  I am fortunate to be supported by the **Hong Kong PhD Fellowship Scheme (HKPFS)**, with only 300 awardees across Hong Kong each year.  
 
-My research focuses on <u>Large Language Models (LLMs) and Vision-Language Models (VLMs), Reasoning, RL and agents</u>. My recent work includes developing RL-based approaches to enhance VLM and LLM reasoning, as seen in projects like [VL-Rethinker](https://tiger-ai-lab.github.io/VL-Rethinker/), [Autocode](https://arxiv.org/abs/2502.00691), [ACECoder](https://arxiv.org/abs/2502.01718), and [HTL](https://arxiv.org/abs/2402.15729). For a comprehensive list of my publications, please visit [my Google Scholar](https://scholar.google.ca/citations?user=V96YGIMAAAAJ&hl=en).
+My research focuses on <u>Large Language Models (LLMs) and Vision-Language Models (VLMs), Reasoning, RL and agents</u>. My recent work includes developing RL-based approaches to enhance VLM and LLM reasoning, as seen in projects like [REverse-Engineered Reasoning (REER)](https://haozheh3.github.io/REER_DeepWriter/), [Hierarchical-Reasoner](https://www.arxiv.org/abs/2509.03646), [Pixel-Reasoner](https://tiger-ai-lab.github.io/Pixel-Reasoner/), [VL-Rethinker](https://tiger-ai-lab.github.io/VL-Rethinker/). For a comprehensive list of my publications, please visit [my Google Scholar](https://scholar.google.ca/citations?user=V96YGIMAAAAJ&hl=en).
 
-Prior to joining HKUST, I worked as a Researcher at INF Technology, advised by [Dr. Wei Chu](https://weichu.github.io/), and as an AI Engineer at Alibaba, under the guidance of [Dr. Chao Du](https://duchao0726.github.io/). These experiences allowed me to deepen my expertise in AI and machine learning while contributing to impactful industry projects.
+Prior to joining HKUST, I worked as a Research Engineer at Alibaba, under the guidance of [Dr. Chao Du](https://duchao0726.github.io/). These experiences allowed me to deepen my expertise in AI and machine learning while contributing to impactful industry projects.
 
 Prior to these working experiences, I was recognized as one of the **Outstanding Graduates of Shanghai** (top 1% province-wide) when studying at ShanghaiTech, and I was awarded the prestigious **National Scholarship** (top 0.2% nation-wide) at Wuhan University in 2017.
 
@@ -29,6 +29,14 @@ Let's make real impacts to both the industry and the academia!
 
 News
 ======
+2025.09<span style="padding-left: 20px;"></span>We release [REverse-Engineered Reasoning (REER)](https://haozheh3.github.io/REER_DeepWriter/) for Open-Ended Generation. This provides a third path for producing high-quality deep reasoning without RL or costly distillation.
+
+2025.09<span style="padding-left: 20px;"></span>We release [Hierarchical-Reasoner](https://www.arxiv.org/abs/2509.03646). We analyze the training dynamics across six text and vision-language models, identifying an **emergent hierarchical reasoning through RL that underpins boost in math reasoning**. This reasoning hierarchy parallels the human's cognitive model, provides direct explanations for opaque observations of "aha moments", "length scaling", and **points out the flaws in token entropy for tracking exploration in RL**.
+
+2025.08<span style="padding-left: 20px;"></span>We release [VerlTool](https://arxiv.org/abs/2509.01055v1), seamlessly integrating tool-use with the widely adopted VeRL framework.
+
+2025.06<span style="padding-left: 20px;"></span>We release [Infinity-Parser](https://arxiv.org/abs/2506.03197), with a comprehensive Doc-Parsing dataset, Infinity-Doc-55K, and a strong Doc-Parser through layout-aware RL.
+
 2025.05<span style="padding-left: 20px;"></span>We release [Pixel Reasoner](https://tiger-ai-lab.github.io/Pixel-Reasoner/), which studies the key reasoning paradigm behind o3/o4-mini. We introduce Pixel-Space Reasoning for the first time, and identify a critical learning trap when cultivating this novel reasoning capability.
 
 2025.05<span style="padding-left: 20px;"></span>Four papers accepted to <b>ACL 2025</b>! Please Check [Autocode](https://arxiv.org/abs/2502.00691), [ACECoder](https://arxiv.org/abs/2502.01718), [SynMed](https://arxiv.org/abs/2410.13523), [Argus](https://arxiv.org/abs/2406.07146).
