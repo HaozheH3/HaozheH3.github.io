@@ -34,6 +34,7 @@ News
 2025.09<span style="padding-left: 20px;"></span>We release [Hierarchical-Reasoner](https://www.arxiv.org/abs/2509.03646). We analyze the training dynamics across six text and vision-language models, identifying an **emergent hierarchical reasoning through RL that underpins boost in math reasoning**. This reasoning hierarchy parallels the human's cognitive model, provides direct explanations for opaque observations of "aha moments", "length scaling", and **points out the flaws in token entropy for tracking exploration in RL**.
 
 2025.08<span style="padding-left: 20px;"></span>We release [VerlTool](https://arxiv.org/abs/2509.01055v1), seamlessly integrating tool-use with the widely adopted VeRL framework.
+2025.06<span style="padding-left: 20px;"></span>We release [AlphaMed](https://cheliu-computation.github.io/AlphaM/), a minimalist zero-RL approach to medical reasoning.
 
 2025.06<span style="padding-left: 20px;"></span>We release [Infinity-Parser](https://arxiv.org/abs/2506.03197), with a comprehensive Doc-Parsing dataset, Infinity-Doc-55K, and a strong Doc-Parser through layout-aware RL.
 
@@ -51,6 +52,6 @@ News
 
 2024.10<span style="padding-left: 20px;"></span>[V-PETL Benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/file/935de67d1a033fd517cb49d192b5c008-Paper-Datasets_and_Benchmarks_Track.pdf) accepted to <b>NeurIPS 2024</b>.
 
-2024.08<span style="padding-left: 20px;"></span>[HTL](https://arxiv.org/abs/2402.15729) accepted to <b>EMNLP 2024</b>. It studied tool-integrated reasoning for math reasoning.
+<!-- 2024.08<span style="padding-left: 20px;"></span>[HTL](https://arxiv.org/abs/2402.15729) accepted to <b>EMNLP 2024</b>. It studied tool-integrated reasoning for math reasoning. -->
 
 
