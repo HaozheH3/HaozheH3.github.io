@@ -29,6 +29,8 @@ Let's make real impacts to both the industry and the academia!
 
 News
 ======
+2025.09<span style="padding-left: 20px;"></span><b>Two first-authored papers, [Pixel-Reasoner](https://tiger-ai-lab.github.io/Pixel-Reasoner/) and [VL-Rethinker](https://tiger-ai-lab.github.io/VL-Rethinker/) got accepted at NeurIPS 2025 (24.5\%).</b> VL-Rethinker got a spotlight (13\%). Congrats and thanks to all collaborators!
+
 2025.09<span style="padding-left: 20px;"></span>We release [REverse-Engineered Reasoning (REER)](https://haozheh3.github.io/REER_DeepWriter/) for Open-Ended Generation. This provides a third path for producing high-quality deep reasoning without RL or costly distillation.
 
 2025.09<span style="padding-left: 20px;"></span>We release [Hierarchical-Reasoner](https://www.arxiv.org/abs/2509.03646). We analyze the training dynamics across six text and vision-language models, identifying an **emergent hierarchical reasoning through RL that underpins boost in math reasoning**. This reasoning hierarchy parallels the human's cognitive model, provides direct explanations for opaque observations of "aha moments", "length scaling", and **points out the flaws in token entropy for tracking exploration in RL**.
