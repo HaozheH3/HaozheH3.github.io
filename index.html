@@ -56,6 +56,12 @@
                   <td style="padding:20px;width:100%;vertical-align:top">
                     <h2>News</h2>
                     <div class="item">
+                      <b>07/2026:</b> <a href="https://arxiv.org/abs/2604.11626">RationalRewards</a> accepted to <strong>COLM 2026</strong>
+                    </div>
+                    <div class="item">
+                      <b>06/2026:</b> <a href="https://arxiv.org/abs/2605.18603">Starve to Perceive</a> accepted to <strong>ECCV 2026</strong>
+                    </div>
+                    <div class="item">
                       <b>05/2026:</b> <a href="https://arxiv.org/abs/2605.14054">Bad Seeing or Bad Thinking?</a> accepted to <strong>ICML 2026</strong> <span class="venue-badge">(Oral Presentation)</span>
                     </div>
                     <div class="item">
@@ -88,13 +94,13 @@
                   <td style="padding:20px;width:100%;vertical-align:middle">
                     <h2>Research Highlights</h2>
                     <div class="research-highlights">
-                      <h3>Visual Generation (Recent)</h3>
+                      <span class="topic-badge visual-gen">Visual Generation (Recent)</span>
                       <ul>
-                        <li><a href="https://arxiv.org/abs/2604.11626">RationalRewards</a> (arXiv 2026) — reasoning rewards scale visual generation</li>
+                        <li><a href="https://arxiv.org/abs/2604.11626">RationalRewards</a> (COLM 2026) — reasoning rewards scale visual generation</li>
                         <li>Search-Augmented Agentic Generation (to appear) — search what visual generators cannot be taught</li>
                         <li><a href="https://arxiv.org/abs/2409.11356">RenderWorld</a> (ICRA 2025) — world model with self-supervised 3D labels</li>
                       </ul>
-                      <h3>Multimodal &amp; Agentic</h3>
+                      <span class="topic-badge multimodal">Multimodal &amp; Agentic</span>
                       <ul>
                         <li><a href="https://arxiv.org/abs/2505.15966">Pixel Reasoner</a> (NeurIPS 2025) — curiosity-driven pixel-space reasoning</li>
                         <li><a href="https://arxiv.org/abs/2605.14054">Bad Seeing or Bad Thinking</a> (ICML 2026 Oral) — rewarding perception for multimodal reasoning</li>
@@ -102,13 +108,13 @@
                         <li><a href="https://arxiv.org/abs/2512.12658">CogDoc</a> (arXiv 2025) — unified thinking in documents</li>
                         <li><a href="https://arxiv.org/abs/2601.15876">EvoCUA</a> (ICML 2026 Workshop) — evolving computer use agents via synthetic experience</li>
                       </ul>
-                      <h3>Reasoning RL</h3>
+                      <span class="topic-badge reasoning">Reasoning RL</span>
                       <ul>
                         <li><a href="https://arxiv.org/abs/2504.08837">VL-Rethinker</a> (NeurIPS 2025 Spotlight) — self-reflection in VLMs via RL</li>
                         <li><a href="https://arxiv.org/abs/2509.03646">Hierarchical Reasoner</a> (ICLR 2026) — emergent hierarchical reasoning through RL</li>
                         <li><a href="https://arxiv.org/abs/2509.06160">REER</a> (ICLR 2026) — reverse-engineered reasoning for open-ended generation</li>
                       </ul>
-                      <h3>Coding</h3>
+                      <span class="topic-badge coding">Coding</span>
                       <ul>
                         <li><a href="https://arxiv.org/abs/2502.00691">To Code or Not to Code</a> (ACL 2025) — adaptive tool integration for math LMs</li>
                         <li><a href="https://arxiv.org/abs/2502.01718">AceCoder</a> (ACL 2025) — automated test-case synthesis for coder RL</li>
@@ -139,22 +145,31 @@
                 <!-- SearchGen — To appear (2026) -->
                 <tr class="pub-row" data-selected="true" data-year="2026">
                   <td style="padding:10px;width:30%;vertical-align:middle">
-                    <img src="images/searchgen.svg" alt="SearchGen" style="border-style:none">
+                    <a href="https://haozheh3.github.io/SearchGen/">
+                      <img src="images/searchgen_teaser.png" alt="SearchGen" style="border-style:none">
+                    </a>
                   </td>
                   <td style="padding:10px;width:70%;vertical-align:middle">
-                    <span class="papertitle">Search-Augmented Agentic Generation: Search What Visual Generators Cannot Be Taught</span>
+                    <a href="https://haozheh3.github.io/SearchGen/">
+                      <span class="papertitle">Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation</span>
+                    </a>
                     <br>
-                    <strong>Haozhe Wang</strong>, et al.
+                    <strong>Haozhe Wang</strong>, Weijia Feng, Jinpeng Yu, Che Liu, Ping Nie, Fangzhen Lin, Jiaming Liu, Ruihua Huang, Jimmy Lin, Wenhu Chen, Cong Wei
                     <br>
                     <span class="internship-badge">Internship @ Qwen Applications Team</span>
                     <br>
-                    <em>To appear</em>
+                    <em><a href="https://arxiv.org/abs/2607.05382">arXiv 2026</a></em>
                     <br>
-                    <p class="desc">Addressing real-world text-to-image requests that rely on search knowledge beyond model parameters</p>
+                    <span class="links">
+                      <a href="https://haozheh3.github.io/SearchGen/">website</a> /
+                      <a href="https://arxiv.org/abs/2607.05382">paper</a> /
+                      <a href="https://github.com/HaozheH3/SearchGen">code</a>
+                    </span>
+                    <p class="desc">Image generators fabricate what they don't know. SearchGen looks it up first — and knows when not to — co-training the generator and a search agent to discover the knowledge boundary in agentic visual generation.</p>
                   </td>
                 </tr>
 
-                <!-- RationalRewards — arXiv 2026 -->
+                <!-- RationalRewards — COLM 2026 -->
                 <tr class="pub-row" data-selected="true" data-year="2026">
                   <td style="padding:10px;width:30%;vertical-align:middle">
                     <img src="images/rational_rewards.png" alt="RationalRewards" style="border-style:none">
@@ -166,7 +181,7 @@
                     <br>
                     <strong>Haozhe Wang</strong>, Cong Wei, Weiming Ren, Jiaming Liu, Fangzhen Lin, Wenhu Chen
                     <br>
-                    <em>arXiv 2026</em>
+                    <em>COLM 2026</em>
                     <br>
                     <span class="links">
                       <a href="https://tiger-ai-lab.github.io/RationalRewards/">website</a> /
@@ -177,7 +192,7 @@
                   </td>
                 </tr>
 
-                <!-- Starve to Perceive — arXiv 2026 -->
+                <!-- Starve to Perceive — ECCV 2026 -->
                 <tr class="pub-row" data-selected="false" data-year="2026">
                   <td style="padding:10px;width:30%;vertical-align:middle">
                     <img src="images/starve_perceive.png" alt="Starve to Perceive" style="border-style:none">
@@ -189,7 +204,7 @@
                     <br>
                     Yuhuan Wu, Cong Wei, Fangzhen Lin, Wenhu Chen, <strong>Haozhe Wang</strong>
                     <br>
-                    <em>arXiv 2026</em>
+                    <em>ECCV 2026</em>
                     <br>
                     <span class="links">
                       <a href="https://arxiv.org/abs/2605.18603">paper</a>

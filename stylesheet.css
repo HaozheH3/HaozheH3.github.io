@@ -87,6 +87,40 @@ h2 {
   font-weight: 700;
   margin: 12px 0 4px 0;
   color: #333;
+  text-decoration: none;
+}
+
+.topic-badge {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 2px 10px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.topic-badge.visual-gen {
+  color: #0e7c5f;
+  background: rgba(14, 124, 95, 0.08);
+  border: 1px solid rgba(14, 124, 95, 0.2);
+}
+
+.topic-badge.multimodal {
+  color: #7b2d8e;
+  background: rgba(123, 45, 142, 0.08);
+  border: 1px solid rgba(123, 45, 142, 0.2);
+}
+
+.topic-badge.reasoning {
+  color: #c45e18;
+  background: rgba(196, 94, 24, 0.08);
+  border: 1px solid rgba(196, 94, 24, 0.2);
+}
+
+.topic-badge.coding {
+  color: #1a5276;
+  background: rgba(26, 82, 118, 0.08);
+  border: 1px solid rgba(26, 82, 118, 0.2);
 }
 
 .research-highlights ul {
